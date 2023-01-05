@@ -1,0 +1,6 @@
+*.net
+*.java
+
+[a..f]*.java
+
+
